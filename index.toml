@@ -1,1 +1,26 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "fb77cff418d82d6a45d0dba21c67044055c1c803a0027e559568146f0bdc45b2"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "15bab7aef2da1c1bf579bd728a270fca71cf9ba457fa4ac1065ffd2c4c692bf8"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "424e0713b38b6c20a3d4e258c7a5a92856526faee10961f1795e4c07f486edf3"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "17b8e8533a46c1aceee6165392a6e937b3507feb774f2b6dff9e3c9799bc05ea"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "a34ea2b0e9f3e37d5b23c8569be442cb1554ad08aef9dcf4400390da1eb86994"
+metafile = true
