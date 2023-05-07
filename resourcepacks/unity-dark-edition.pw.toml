@@ -1,0 +1,13 @@
+name = "Unity: Dark Edition"
+filename = "Unity-1.19.X-Dark-0.8.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkrInWCl/versions/HF1TWodn/Unity-1.19.X-Dark-0.8.1.zip"
+hash-format = "sha1"
+hash = "a2209fc575213cc3a215c499e94becec631d898f"
+
+[update]
+[update.modrinth]
+mod-id = "EkrInWCl"
+version = "HF1TWodn"

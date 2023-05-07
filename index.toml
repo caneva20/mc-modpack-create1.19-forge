@@ -259,3 +259,8 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b6e4b5a9e594a9fe4cc74dfb689507967276ed663e3e3e4f9704d572c278834e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "c6e3f75bac5944bb54b3e551c339957e7d8edbb227bd231f2a7b0debaca810d5"
+metafile = true
