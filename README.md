@@ -1,4 +1,12 @@
-# Como adicionar a modpack
+# Servidor 1.19 - Forge
+
+## Informações de conectividade
+
+> "Ip: `forge-119.mc.caneva20.me`
+
+> Versão: `1.19.2`
+
+## Como adicionar a modpack
 
 1. Baixe o [Prism Launcher](https://prismlauncher.org/download/)
 2. Crie uma nova instancia ![add instance](/content/add-instance.png)
