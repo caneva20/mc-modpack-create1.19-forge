@@ -121,6 +121,11 @@ hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "ccc580b248ba65ca4975089728de6e02d5e2065f20ab1ef1ec67153354296b8c"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
