@@ -126,8 +126,8 @@ hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "708530efef7f52d0961305281bf26cf5c29f328d2258dabcef56b41f05a42966"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "6348af3f9103eb83eea2bde1fa7d685d53c8c450c40f314b68c89f5f6f854e36"
 metafile = true
 
 [[files]]
