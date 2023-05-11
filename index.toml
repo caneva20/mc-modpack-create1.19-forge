@@ -131,8 +131,8 @@ hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "708530efef7f52d0961305281bf26cf5c29f328d2258dabcef56b41f05a42966"
+file = "mods/inventory-sorter.pw.toml"
+hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
 
 [[files]]
