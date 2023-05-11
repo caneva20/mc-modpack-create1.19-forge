@@ -121,6 +121,11 @@ hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
 metafile = true
 
 [[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "5188612701d52f2488e7f719bb52ae24d183598db031acb20fb5ca1ba3ecd3a3"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
 metafile = true
 
 [[files]]
