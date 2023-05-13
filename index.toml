@@ -6,6 +6,11 @@ hash = "f61da9d7f26b3cf324c3e7ada5b3e5862e01dd37941cd8d219cf08eff7b8b7fc"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "127440bc8e33c7a5350d37abdfb6f7b9d2e8ccc8eff93cb0cf67fc04184d3139"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "04fb977e669b2dc227691d90414c450ba397bcc7c79341ad1ba20841cdab167e"
 metafile = true
 
 [[files]]
@@ -121,6 +136,16 @@ hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "16f97c9a0b1197538393dfefc7335f80d7ef9a18d7dfb6e7638498d072cc1d18"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "327a7b3255c51b7e3f4ff1c0ad3ebcb73bb8f9857466c774fcb076b5353c2cbd"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
 metafile = true
@@ -156,6 +181,11 @@ hash = "6348af3f9103eb83eea2bde1fa7d685d53c8c450c40f314b68c89f5f6f854e36"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "15bab7aef2da1c1bf579bd728a270fca71cf9ba457fa4ac1065ffd2c4c692bf8"
 metafile = true
@@ -181,6 +211,11 @@ hash = "e9439d150a23f9f9880ae7837bb1cca23cfedd6602425f8096202e9c26c554b4"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "9c7225d4ff130e2372e5fb8dd8a6f2c51dd63411b351782c3b43a27c0ea5b863"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
@@ -191,8 +226,33 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "5188612701d52f2488e7f719bb52ae24d183598db031acb20fb5ca1ba3ecd3a3"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "163fe70e260b40aca45d2aed419ffc703a6337c840da4cf514fa2768834626d0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "eaa4564fc5b60449b4a36345280ef1b788a2b7d17199f2a81772541cb40c1d31"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "594e1004d6c58be783078614b7e88919eb40ebd4cd6ea8b9da2e8e9c0fb61d32"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "3756509ad06b33d670010545d935058a9ac83cd941a604446899828c1f561410"
 metafile = true
 
 [[files]]
@@ -203,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "7f12b6d9fb0eee82b906c2e60d61b65007ff50be417ed4eda41194f0c3c8a592"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "e5e0d1502a146aa4c923e564ae976270d9c5af2977f4d2f79e4c1db5fc37e5ff"
 metafile = true
 
 [[files]]
@@ -238,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "c255b505d21620ed46af9e5dde6f8c7f3d0bbf5d672fdc5a1f4e2a584c4aad73"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "82b58e8ae808ecf1b1019e8c29a91a623165e4ae29abd4f4c8d948b5ae011675"
 metafile = true
 
 [[files]]
