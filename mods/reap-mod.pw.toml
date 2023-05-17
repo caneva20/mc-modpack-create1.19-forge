@@ -1,0 +1,13 @@
+name = "Reap Mod"
+filename = "reap-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e70130b37d5c4f7e599ed2672ba57846c8753312"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920736
+project-id = 244256

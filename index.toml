@@ -151,11 +151,6 @@ hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
 metafile = true
 
 [[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "dade54fb89c2cbd9b4fe5fed590d1e54b8e0fcc06b921d8230e53c8db5baf204"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
@@ -268,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "7f12b6d9fb0eee82b906c2e60d61b65007ff50be417ed4eda41194f0c3c8a592"
+metafile = true
+
+[[files]]
+file = "mods/reap-mod.pw.toml"
+hash = "fa2c14efb372c54102c5623168ad021bd9407e9f0cb9dcaf19be1ddcb07cf013"
 metafile = true
 
 [[files]]
