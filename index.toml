@@ -176,11 +176,6 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "6348af3f9103eb83eea2bde1fa7d685d53c8c450c40f314b68c89f5f6f854e36"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
 metafile = true
