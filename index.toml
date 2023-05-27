@@ -72,17 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-crystal-clear.pw.toml"
-hash = "ab3f5892fe40d39a65b936d57f1f1a3bdd26e85a58fa34c7ef131c39695e5acb"
+hash = "8520d6e202b7fd6b5edb0456e8974b45cdee30c2cc7df345c329cca3bd3e258a"
 metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
+hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "139a92b6e1cc541a1b06b7e76f23fddf3a13ae234561813e46215a8b8cb4cfc8"
+hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "746663fba0e14847e0d3eb760a158b17180afaa93510470d5ee84a825694f84d"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b06a689f856227de2e5f39a4e217f719664a702d157f35d88bd88d770e82ed5e"
+hash = "c8ad1fe62848ef0f5b1a74389955b14275d6a4c1f21e2e7ae2e34d4d36827c65"
 metafile = true
 
 [[files]]
