@@ -2,13 +2,12 @@
 
 ## Informações de conectividade
 
-> "Ip: `forge-119.mc.caneva20.me`
-
-> Versão: `1.19.2`
+> Ip: `forge-119.mc.caneva20.me`
 
 ## Como adicionar a modpack
 
 1. Baixe o [Prism Launcher](https://prismlauncher.org/download/)
+   1. Se você não tiver uma conta original, baixe-o por aqui: [Prism Launcher - Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked#downloads-mediafire)
 2. Crie uma nova instancia ![add instance](/content/add-instance.png)
 3. Adicione a configuração a seguir: ![create-instance](content/create-instance.png)
    1. Click em **Import from Zip**
