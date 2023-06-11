@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "f61da9d7f26b3cf324c3e7ada5b3e5862e01dd37941cd8d219cf08eff7b8b7fc"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "127440bc8e33c7a5350d37abdfb6f7b9d2e8ccc8eff93cb0cf67fc04184d3139"
 metafile = true
@@ -111,18 +106,8 @@ hash = "f2b50ad09b2a5254751b05af1319b45e31d8f8f522c018c2134fdb6b45f31b59"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
-metafile = true
-
-[[files]]
-file = "mods/equipment-compare.pw.toml"
-hash = "a3a6e1b7606615779fc8f5f8b2c78d9801fdbe0b70cad0d9ecbed1e5e0b1cc0e"
 metafile = true
 
 [[files]]
@@ -158,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
-metafile = true
-
-[[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "fabf63f20bc8216e06d4769e34339509913f31e39598a72e8dfc5f9b95cb75e1"
 metafile = true
 
 [[files]]
