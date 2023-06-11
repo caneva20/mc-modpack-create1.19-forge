@@ -166,6 +166,11 @@ hash = "fabf63f20bc8216e06d4769e34339509913f31e39598a72e8dfc5f9b95cb75e1"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
@@ -268,16 +273,6 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "e87e1681c59a88f9f6bc4c022f3ddadbece3a2557d01e7615d97e9da989c9f83"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "33dd511c887fbedaa92946fe57faa8cee8770a87211b334d9c807e4e80fc2b0f"
 metafile = true
 
 [[files]]
