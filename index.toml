@@ -101,11 +101,6 @@ hash = "565577c5461a77cfd7bfc000720c8857795b45596ea5f9c8736251aefe328b2c"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "f2b50ad09b2a5254751b05af1319b45e31d8f8f522c018c2134fdb6b45f31b59"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
@@ -143,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
 metafile = true
 
 [[files]]
@@ -253,6 +243,16 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "e87e1681c59a88f9f6bc4c022f3ddadbece3a2557d01e7615d97e9da989c9f83"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "4f3bb9b27ed6d539fc51c32cfaa5f40fe89e81e483227b5e391d4cbbeb9530fc"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "a838f6ef3537badd66375fb2c65d8cafaf1a7bb6c16771556a9c178e4b99e192"
 metafile = true
 
 [[files]]
