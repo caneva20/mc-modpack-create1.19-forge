@@ -1,0 +1,13 @@
+name = "EMI"
+filename = "emi-1.0.2+1.19.2+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/luelaLAf/emi-1.0.2%2B1.19.2%2Bforge.jar"
+hash-format = "sha1"
+hash = "a80984ab4e6c9016691587f7565eee070157118e"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "luelaLAf"
