@@ -1,13 +1,13 @@
 name = "REI Plugin Compatibilities"
-filename = "REIPluginCompatibilities-forge-9.0.48.jar"
+filename = "REIPluginCompatibilities-forge-9.0.63.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1PfY6b5p/versions/PMFl23RM/REIPluginCompatibilities-forge-9.0.48.jar"
+url = "https://cdn.modrinth.com/data/1PfY6b5p/versions/8srgLs0h/REIPluginCompatibilities-forge-9.0.63.jar"
 hash-format = "sha1"
-hash = "79fcb187ecd126a151f4ce1956d6310bf71910e2"
+hash = "0d007599fe95164380330f357616a7231d2eb112"
 
 [update]
 [update.modrinth]
 mod-id = "1PfY6b5p"
-version = "PMFl23RM"
+version = "8srgLs0h"
